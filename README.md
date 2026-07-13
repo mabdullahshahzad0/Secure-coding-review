@@ -1,4 +1,4 @@
-## Secure Coding Review — Task 3 (Cybersecurity Internship)
+## Secure Coding Review 
 
 A hands-on secure coding review of a small **Python/Flask** web
 application. This project demonstrates the full workflow of a security
